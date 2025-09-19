@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+venv/
+.venv/
+.env
+
+# Data & models (büyükler)
+data/raw/
+data/interim/
+data/processed/
+models/
+checkpoints/
+bfo_results/
+vmd_output/
+*.h5
+*.npz
+*.npy
+*.pkl
+*.ckpt
+
+# IDE/OS
+.DS_Store
+.vscode/
+.idea/
+*.log
