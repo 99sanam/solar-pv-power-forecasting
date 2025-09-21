@@ -22,5 +22,5 @@ requirements.txt
 
 👤 Author
 
-Bibi Sanam Faizi
+Sanam Faizi
 Software Engineering Student, Istanbul Topkapı University
